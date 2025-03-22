@@ -1,8 +1,11 @@
-<!--![](https://github.com/Yarvannim/git-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Yarvannim/git-stats/blob/master/generated/languages.svg#gh-dark-mode-only)-->
+# Hello world, my name is Yardi
 
-For all my school projects i am forced to use their own gitlab so i cannot show those projects on github
+**I am a software engineering student located in The Netherlands.**
 
+👩🏻‍💻 Java developer intern at Sogeti
+💡 Currently very interested in learning more about lower level languages
+![](https://github.com/Yarvannim/git-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Yarvannim/git-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **Yarvannim/Yarvannim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
