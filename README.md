@@ -3,7 +3,7 @@
 **I am a software engineering student located in The Netherlands.**
 
 👩🏻‍💻 Java developer intern at Sogeti<br><br>
-💡 Currently very interested in learning more about lower level languages
+💡 Currently very interested in learning more about lower level languages<br><br>
 ![](https://github.com/Yarvannim/git-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/Yarvannim/git-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 <!--
